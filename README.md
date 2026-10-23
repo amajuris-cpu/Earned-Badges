@@ -6,6 +6,6 @@ Welcome to my verified credential repository. This space hosts digital badges, c
 
 | Badge / Certificate | Issuer / Platform | Status / Validation |
 | :--- | :--- | :--- |
-| **[WiCyS Secyrity Training Scholarship, Tier 1, 2026]** | [WyCiS x SANS Institute] | Verified / Active *(Verification details provided upon request)* |
+| **WiCyS Secyrity Training Scholarship, Tier 1, 2026** | WyCiS x SANS Institute | Verified / Active *(Verification details provided upon request)* |
 
 > **Verification Policy:** All badges displayed here correspond to completed coursework, hands-on labs, or certification milestones. Direct verification links, transcript IDs, or credential hashes can be provided upon formal request.
